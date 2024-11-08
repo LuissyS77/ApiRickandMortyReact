@@ -1,0 +1,29 @@
+.Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    text-align: center;
+    font-family:'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-weight: 800;
+    font-size: 5rem;
+}
+
+
+.List{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(32, 35, 41);
+}
+
+.Personajes{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 90vh;
+    height: 38vh;
+    
+    margin: 20px;
+    
+}
